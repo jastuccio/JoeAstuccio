@@ -1,7 +1,7 @@
 {
-  "name": "johnkpaul",
-  "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "name": "joeastuccio",
+  "version": "2.0.0",
+  "description": "Joe Astuccio... Web Developer, Sailor, Stargazer, Hockey Player, and all around fun guy... but my absolute favorite thing is being a dad.",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
@@ -10,6 +10,6 @@
     "person",
     "contact"
   ],
-  "author": "John K. Paul",
+  "author": "Joe Astuccio",
   "license": "ISC"
 }
